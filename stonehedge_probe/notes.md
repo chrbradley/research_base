@@ -1,0 +1,3 @@
+- Confirmed repository instructions from root `AGENTS.md` about working in a dedicated folder with notes and a README.
+- Searched for additional `AGENTS.md` files using `find .. -name AGENTS.md -print`; none beyond the root copy were present.
+- Verified the StoneHedge prompt exists at `research_prompts/StoneHedge.md` and reviewed its contents to confirm it describes the patio layout research prompt.
